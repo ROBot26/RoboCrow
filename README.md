@@ -1,4 +1,6 @@
 # RoboCrow
+Final Demo: https://www.youtube.com/watch?v=DOt_Vaebc_M
+
 Found out a good friend has a fear of crows. So I decided to create an automated crow that would use a proximity sensor to detect his presence, light up glowing red eyes, and let out a crow caw. 
 The crow itself will be 3D printed. The brains of the crow will be an arduino nano. The proximity sensor is an IR LED and IR sensor that I stole from a parallax BOE robotics kit.
 
